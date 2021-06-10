@@ -6,8 +6,8 @@ RFM segmentation is a well-known user segmentation strategy based on three user 
 **Frequency (F)**: How often does the customer transact?<br/>
 **Monetary (M)**: What is the size of the user’s transaction?<br/>
 Go through this wonderfull Article **Pararawendy Indarjo**<br/>
-https://towardsdatascience.com/rfm-segmentation-in-e-commerce-e0209ce8fcf6
-For the Data go through this link
+https://towardsdatascience.com/rfm-segmentation-in-e-commerce-e0209ce8fcf6<br/>
+For the Data go through this link<br/>
 https://www.kaggle.com/carrie1/ecommerce-data
 
 
